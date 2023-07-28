@@ -1,11 +1,11 @@
 <h1>Hi, I'm Nicole 
     <img src="https://media.giphy.com/media/42IBrWawqSqwPDk5CF/giphy.gif" width="30"/></h1>
-    <a href="https://linkedin.com/in/nicoleharaj" target="_blank" rel="noopener noreferrer">
+    <a href="https://linkedin.com/in/nicoleharaj">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"      
         width="90"/>
     </a>
   </h1>
-<p>I am a full stack developer based in New York currently working as a full stack developer intern for <a href="https://guildgaming.gg" target="_blank" rel="noopener noreferrer">GuildGaming</a>.</p>
+<p>I am a full stack developer based in New York currently working as a full stack developer intern for <a href="https://guildgaming.gg">GuildGaming</a>.</p>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
