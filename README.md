@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nicole 
     <img src="https://media.giphy.com/media/42IBrWawqSqwPDk5CF/giphy.gif" width="30"/></h1>
-    <a href="https://linkedin.com/in/nicoleharaj">
+    <a href="https://linkedin.com/in/nicoleharaj/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"      
         width="90"/>
     </a>
