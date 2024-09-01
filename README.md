@@ -5,7 +5,7 @@
         width="90"/>
     </a>
   </h1>
-<p>I am a full stack developer based in New York currently working for <a href="https://www.flexiblesystems.com">Flexible Systems</a>.</p>
+<p>I am a full stack developer based in New York currently working for <a href="https://www.flexibleit.com">Flexible IT</a>.</p>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
